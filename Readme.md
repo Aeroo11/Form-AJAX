@@ -1,5 +1,8 @@
 # Dokumentasi Form AJAX
 
+![image](https://github.com/user-attachments/assets/224fab76-a215-4520-ab54-7cd675566d18)
+
+
 ## Deskripsi
 Proyek ini adalah implementasi form sederhana menggunakan AJAX (Asynchronous JavaScript and XML) yang memungkinkan pengiriman data form tanpa perlu me-refresh halaman. Proyek ini menggunakan HTML, CSS, JavaScript, dan PHP.
 
